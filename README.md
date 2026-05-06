@@ -116,6 +116,8 @@ If no record is found, the system displays a warning message.
 The application uses **SQLite** as the backend database.
 
 When the search button is clicked:
+```
+---
 
 - A SQL query is executed  
 - The system checks the database for the registration number  
