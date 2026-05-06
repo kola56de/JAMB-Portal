@@ -177,3 +177,54 @@ JAMB-Portal/
 │   └── Dashboard.png
 │── Portal.py
 │── requirements.txt
+```
+---
+⚙️ Installation & Setup
+1️⃣ Clone Repository
+```bash
+git clone https://github.com/kola56de/JAMB-Portal.git
+cd JAMB-Portal
+```
+---
+2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+---
+3️⃣ Run Application
+```bash
+streamlit run Portal.py
+```
+---
+## 📌 Use Cases
+
+- Student Registration Systems  
+- Educational Record Management  
+- School Administration Dashboards  
+- Beginner Database Applications  
+- CRUD-Based Web Applications  
+- Academic Information Systems  
+
+---
+
+## 📈 Future Improvements
+
+- User Authentication System  
+- Admin Login Dashboard  
+- Cloud Database Integration  
+- Student Result Management  
+- PDF Report Export  
+- Email Notification System  
+
+---
+
+## 👨‍💻 Author
+
+**Kolade Olonisakin**  
+PhD Civil Engineer | Transportation & Traffic Systems | AI & Machine Learning for Smart Mobility | Builder of Intelligent Data Applications  
+
+---
+
+## ⭐ Support
+
+If you like this project, kindly **star the repository** and share.
