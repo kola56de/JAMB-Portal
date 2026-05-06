@@ -119,13 +119,17 @@ When the search button is clicked:
 
 - A SQL query is executed  
 - The system checks the database for the registration number  
-- Matching records are returned and displayed in table format  
+- Matching records are returned and displayed in table format
+  ```
+  --- 
 
 Example SQL logic:
 
 ```sql
 SELECT * FROM informations WHERE reg_no = ?
 ### ⚡ User Interface Design
+```
+---
 
 The dashboard features:
 
