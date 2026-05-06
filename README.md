@@ -105,10 +105,35 @@ The system checks the database for the registration number
 Matching records are returned and displayed in table format
 
 Example SQL logic:
-```bash
+
 SELECT * FROM informations WHERE reg_no = ?
-```
----
+⚡ User Interface Design
+
+The dashboard features:
+
+Simple and clean layout
+Interactive sidebar controls
+Responsive form inputs
+Beginner-friendly navigation
+
+The minimalist interface makes student data management easy and efficient.
+
+📌 Benefits of the Search Module
+Fast student record retrieval
+Easy academic data lookup
+Reduces manual searching
+Demonstrates CRUD database operations
+Useful for educational administration systems
+🧾 Summary
+
+This dashboard acts as a mini Student Information Management System, allowing administrators to quickly search and manage student records through an interactive web application.
+
+🛠️ Tech Stack
+Python
+Streamlit
+SQLite3
+Pandas
+📂 Project Structure
 ⚡ User Interface Design
 
 The dashboard features:
